@@ -41,20 +41,9 @@ MAC:
 
 https://drive.google.com/file/d/1qaZUPFNZjXa5uYQoBt0FIJPnRI0Y0iZ7/view?usp=drive_link
 
-
 WINDOWS:
 
 https://drive.google.com/file/d/1IYa1Wb1S8GnTyliRSQs0xJ2JGQ-2_5gY/view?usp=drive_link
-
-### Como gerar o link:
-1. Vá em *File > Build Settings*
-2. Escolha *Windows / Mac / Linux*
-3. Clique *Build*
-4. Rode o jogo para testar
-5. Compacte a pasta final *.zip*
-6. Envie para o *Google Drive / OneDrive*
-7. Clique em *Compartilhar > Qualquer pessoa com o link*
-8. Cole o link aqui no README
 
 ---
 
