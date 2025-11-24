@@ -1,0 +1,5 @@
+# Ignorar a pasta Assets na raiz do projeto
+/Assets/
+
+# Caso existam subpastas chamadas Assets em outros locais
+**/Assets/
